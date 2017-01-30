@@ -1,12 +1,9 @@
 +++
 date = "2017-01-27T23:05:56-05:00"
 title = "expedia_python"
-draft = "true"
 categories = ["misc"]
 
 +++
-
-
 
 ```python
 import pandas as pd
