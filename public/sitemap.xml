@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://uyenhoang.github.io/post/python_notes/</loc>
+    <lastmod>2017-02-09T15:06:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/post/fm/</loc>
+    <lastmod>2017-01-24T15:28:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/categories/misc/</loc>
+    <lastmod>2017-02-09T15:06:09-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/</loc>
+    <lastmod>2017-02-09T15:06:09-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uyenhoang.github.io/post/</loc>
+    <lastmod>2017-02-09T15:06:09-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

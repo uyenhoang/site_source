@@ -1,0 +1,13 @@
+table {
+	display: block;
+	overflow-x: auto;
+}
+
+table th {
+	padding: 5px;
+}
+
+table td {
+	text-align: center;
+	padding: 5px;
+}
